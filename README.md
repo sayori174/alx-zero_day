@@ -1,2 +1,3 @@
-[master 56f9da9] Starting to code today, so cool
- 1 file changed, 7 insertions(+), 1 deletion(-)
+[update_script 734f6f1] My personal work
+ 4 files changed, 4 insertions(+), 9 deletions(-)
+ create mode 100644 0x03-git/bash/98

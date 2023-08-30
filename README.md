@@ -1,3 +1,4 @@
-[update_script 734f6f1] My personal work
- 4 files changed, 4 insertions(+), 9 deletions(-)
- create mode 100644 0x03-git/bash/98
+[main eeeabcd] Hot fix
+ 4 files changed, 4 insertions(+), 3 deletions(-)
+ delete mode 100644 0x03-git/js/index.js
+ delete mode 100644 0x03-git/js/main.js
